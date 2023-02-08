@@ -1,0 +1,17 @@
+html,body,p {font-size: 20px; color: #F9FAFA; font-family: "Gill Dans", 
+"Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica", "Aria",
+"sans-serif"}
+ul.nav a {text-decoration: none; color: #F9FAFA; font-size: 25px}
+ul.nav {position: fixed; top: 90; width: 100%}
+ul.nav {text-align: center;}
+ul.nav a:hover {border-bottom: 1px solid #F9FAFA}
+ul.nav a {list-style-type: none;}
+ul.nav li{display: inline-block; padding: 0 20px}
+h1 {position: fixed; top: 0; width: 100%}
+h1 {text-align: center; color: #F9FAFA}
+h1 {font-size: 50px;}
+html {background-color: #07214B}
+body {margin-top: 180}
+body {position: relative;}
+h1 {background-image: url('banner.jpg'); background-attachment: fixed}
+ul.nav {background-image: url('banner.jpg');}
